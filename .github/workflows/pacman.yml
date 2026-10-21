@@ -1,9 +1,9 @@
 name: generate pacman game
 
 on:
-  schedule: # Her 24 saatte bir otomatik günceller
+  schedule:
     - cron: "0 */24 * * *"
-  workflow_dispatch: # İstediğin zaman manuel çalıştırmanı sağlar
+  workflow_dispatch:
   push:
     branches:
       - main
