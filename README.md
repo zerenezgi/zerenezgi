@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.hizliresim.com/hdfxzhex.jpg"  />
+  <img data-importer="image" height="300" src="https://i.hizliresim.com/hdfxzhex.jpg"  />
 </div>
 
 ###
